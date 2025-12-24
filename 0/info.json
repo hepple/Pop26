@@ -1,0 +1,29 @@
+{
+  "Title": "Populous: The Summoning I",
+  "Description": "You have been summoned by the Matak to help defend their worlds against the invading Dakini and Chumara tribes.",
+  "Credits": "Toxicity",
+  "Packer": "Lovenji",
+  "Download": "http://thebeginning.uk/",
+  "Youtube": [
+    "https://www.youtube.com/watch?v=bUkfjKQkDyM&list=PLdUEBtF3t3OPYJipG4xh2RviUDFoBb9r3&ab_channel=Populous3Tutorials"
+  ],
+  "Images": [
+	"Tsmm1",
+		"Tsmm2",
+			"Tsmm3",
+				"Tsmm4",
+					"Tsmm5",
+						"Tsmm6"
+
+  ],
+  "Difficulty": 3,
+  "Version": "1.0",
+  "ReleaseDate": "2017",
+  "Levels": 5,
+  "Lua": false,
+  "SoundEngine": false,
+  "Future1": -1,
+  "Future2": -1,
+  "Future3": ""
+}
+
